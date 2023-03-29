@@ -27,7 +27,7 @@ public class TestUser {
         System.out.println(b);
 //
 //        boolean b = iBusinessService.updateBusiness("business_pwd", 1, "asd");
-//        System.out.println(b);
+        System.out.println(b);
 
 //        boolean b = iBusinessService.regBusiness("pwd", "asd", "123456");
 //        System.out.println(b);
