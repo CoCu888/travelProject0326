@@ -26,6 +26,7 @@ public class TestUser {
         boolean b = iBusinessDAO.insertBusiness("asd", "asd", "asd");
         System.out.println(b);
         System.out.println("aaaaaaaaaaa");
+        System.out.println("hot-fix test");
 //
 //        boolean b = iBusinessService.updateBusiness("business_pwd", 1, "asd");
         System.out.println(b);
