@@ -25,6 +25,7 @@ public class TestUser {
         BusinessDAOImpl iBusinessDAO = new BusinessDAOImpl();
         boolean b = iBusinessDAO.insertBusiness("asd", "asd", "asd");
         System.out.println(b);
+        System.out.println("aaaaaaaaaaa");
 //
 //        boolean b = iBusinessService.updateBusiness("business_pwd", 1, "asd");
         System.out.println(b);
