@@ -29,6 +29,9 @@ public class TestUser {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println(b);
+        //"adasfasf";
+        //"adasfasf";
+        //"adasfasf";
 
 //        boolean b = iBusinessService.regBusiness("pwd", "asd", "123456");
 //        System.out.println(b);
