@@ -22,9 +22,9 @@ public class TestUser {
     private UserServiceImpl userService;
     public static void main(String[] args) throws Exception {
 
-//        BusinessDAOImpl iBusinessDAO = new BusinessDAOImpl();
-//        boolean b = iBusinessDAO.insertBusiness("asd", "asd", "asd");
-//        System.out.println(b);
+        BusinessDAOImpl iBusinessDAO = new BusinessDAOImpl();
+        boolean b = iBusinessDAO.insertBusiness("asd", "asd", "asd");
+        System.out.println(b);
 //
 //        boolean b = iBusinessService.updateBusiness("business_pwd", 1, "asd");
 //        System.out.println(b);
