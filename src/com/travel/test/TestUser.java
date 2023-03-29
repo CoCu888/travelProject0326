@@ -27,6 +27,7 @@ public class TestUser {
         System.out.println(b);
         System.out.println("aaaaaaaaaaa");
         System.out.println("master test");
+        System.out.println("hot-fix test");
 //
 //        boolean b = iBusinessService.updateBusiness("business_pwd", 1, "asd");
         System.out.println(b);
